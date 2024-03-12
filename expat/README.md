@@ -4,25 +4,12 @@
 [![Downloads SourceForge](https://img.shields.io/sourceforge/dt/expat?label=Downloads%20SourceForge)](https://sourceforge.net/projects/expat/files/)
 [![Downloads GitHub](https://img.shields.io/github/downloads/libexpat/libexpat/total?label=Downloads%20GitHub)](https://github.com/libexpat/libexpat/releases)
 
-<div align="center">
-    <kbd>Markdown</kbd> also supports &#9608; <b>HTML</b> &#9608; <i>syntax</i> <!--invisible--> <br/>
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=vq2jYFZVMDA" target="_blank">
-        <img src="http://img.youtube.com/vi/vq2jYFZVMDA/0.jpg" alt="GitHub Video"
-        border="10" width="460" height="250"/>
-    </a>
-</div>
-
-
 # Expat, Release 2.5.0
 
-
-<div style="background-color: #fcf8e5; color: #8C6D46; padding: 16px 24px;">
-    <div style="font-size: 16px; font-weight: bold;">⚠️ Warning</div>
-    <div style="font-size: 12px">
-        Warning description here
-    </div>
-</div>
-
+> [!WARNING]  
+> Here comes the warning text
+> 
+> That can have multiple lines 
 
 This is Expat, a C99 library for parsing
 [XML 1.0 Fourth Edition](https://www.w3.org/TR/2006/REC-xml-20060816/), started by
